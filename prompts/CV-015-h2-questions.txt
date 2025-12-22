@@ -1,0 +1,13 @@
+Analizuję nagłówki H2 strony.
+
+Aktualne H2:
+{h2_list}
+
+Problem: Za mało H2 w formie pytań (aktualne: {question_ratio}%, target: min 50%)
+
+Zaproponuj przekształcenie 3 wybranych H2 w formę pytań, zachowując ich sens:
+
+Format odpowiedzi:
+1. "[oryginał]" → "[jako pytanie]"
+2. "[oryginał]" → "[jako pytanie]"
+3. "[oryginał]" → "[jako pytanie]"

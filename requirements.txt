@@ -1,0 +1,28 @@
+# Core
+streamlit>=1.29.0
+python-dotenv>=1.0.0
+
+# Parsing
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+markdown-it-py>=3.0.0
+mdit-py-plugins>=0.4.0
+
+# Embeddings & ML
+numpy>=1.24.0
+scikit-learn>=1.3.0
+umap-learn>=0.5.4
+
+# HTTP Client
+httpx>=0.25.0
+tenacity>=8.2.0
+
+# Visualization
+plotly>=5.18.0
+pandas>=2.0.0
+
+# Utilities
+scipy>=1.11.0
+
+# Development
+pytest>=7.4.0

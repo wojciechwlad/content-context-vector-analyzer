@@ -1,0 +1,15 @@
+Analizuję Title Tag strony pod kątem Content Context Vector.
+
+Aktualny Title: "{current_title}"
+Aktualna długość: {current_length} znaków
+Problem: {problem}
+
+Zaproponuj 3 warianty poprawionego Title Tag, które:
+1. Mają długość 50-60 znaków
+2. Zachowują główny temat i słowa kluczowe
+3. Zawierają value proposition
+
+Format odpowiedzi (tylko propozycje, bez wstępu):
+1. [Propozycja] (X zn.)
+2. [Propozycja] (X zn.)
+3. [Propozycja] (X zn.)

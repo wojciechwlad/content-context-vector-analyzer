@@ -1,0 +1,16 @@
+Analizuję H1 strony pod kątem semantic alignment z Title.
+
+Title: "{title}"
+Aktualny H1: "{h1}"
+Similarity: {similarity}%
+Problem: H1 ma {similarity_issue} similarity z Title (target: 80-90%)
+
+Zaproponuj 3 warianty H1, które:
+1. Mają 80-90% semantic similarity z Title
+2. Używają naturalnej wariacji słów (synonimy)
+3. Nie są identyczną kopią Title
+
+Format odpowiedzi:
+1. [Propozycja]
+2. [Propozycja]
+3. [Propozycja]

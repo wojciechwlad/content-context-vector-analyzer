@@ -1,0 +1,17 @@
+Analizuję Meta Description strony.
+
+Aktualny Meta: "{current_meta}"
+Aktualna długość: {current_length} znaków
+Problem: {problem}
+
+Zaproponuj 3 warianty Meta Description, które:
+1. Mają długość 150-160 znaków
+2. Rozszerzają Title o konkretne dane/specyfikacje
+3. Zawierają call-to-value (nie CTA)
+
+Title strony: "{title}"
+
+Format odpowiedzi:
+1. [Propozycja] (X zn.)
+2. [Propozycja] (X zn.)
+3. [Propozycja] (X zn.)

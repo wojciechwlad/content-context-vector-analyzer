@@ -1,0 +1,16 @@
+Analizuję element Content Context Vector.
+
+Element: {element_type}
+Aktualna wartość: "{current_value}"
+Problem: {problem}
+Kontekst (Title): "{title}"
+
+Zaproponuj 3 warianty poprawy tego elementu zgodnie z zasadami Content Context Vector:
+- Semantic Alignment (zgodność z tematem Title)
+- Progressive Refinement (zawężanie tematu)
+- Keyword Consistency (naturalne warianty słów kluczowych)
+
+Format odpowiedzi:
+1. [Propozycja]
+2. [Propozycja]
+3. [Propozycja]
