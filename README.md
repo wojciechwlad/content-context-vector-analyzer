@@ -2,6 +2,8 @@
 
 Analizator semantycznej struktury treści dla SEO. Wykorzystuje embeddingi (Ollama) do oceny spójności tematycznej strony.
 
+**Przeczytaj artykuł:** [Content Context Vector Checklist](https://rozenberger.com/posts/p/content-context-vector-checklist/)
+
 ## Czym jest Content Context Vector?
 
 Content Context Vector to metryka semantyczna, która analizuje czy wszystkie elementy strony (Title, H1, H2, H3, meta description) są ze sobą powiązane tematycznie. W przeciwieństwie do tradycyjnej analizy keyword-based, CCV używa embeddingów do mierzenia rzeczywistej bliskości semantycznej.
@@ -20,7 +22,7 @@ Content Context Vector to metryka semantyczna, która analizuje czy wszystkie el
 ## Wymagania
 
 - Python 3.10+
-- [Ollama](https://ollama.ai/) - lokalne modele AI
+- Ollama - lokalne modele AI
 
 ### Modele Ollama
 
